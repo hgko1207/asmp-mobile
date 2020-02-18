@@ -23,7 +23,7 @@
 		<org.springframework-version>4.3.18.RELEASE</org.springframework-version>
 		
 		<!-- Spring Data JPA -->
-		<springframework-data.version>1.11.14.RELEASE</springframework-data.version>
+		<springframework-data.version>1.11.23.RELEASE</springframework-data.version>
 		
 		<!-- Persistence Framework -->
 		<hibernate.version>4.3.11.Final</hibernate.version>
